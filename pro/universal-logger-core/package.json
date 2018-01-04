@@ -1,0 +1,12 @@
+{
+	"name": "@offirmo/universal-logger-core",
+	"version": "0.0.1",
+	"main": "src/index.js",
+	"author": "Offirmo <offirmo.net@gmail.com>",
+	"license": "Unlicense",
+	"private": true,
+	"dependencies": {
+		"@offirmo/timestamp": "^0.0.1",
+		"typescript-string-enums": "^0.3.5"
+	}
+}

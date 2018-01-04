@@ -1,0 +1,23 @@
+{
+	"name": "hello-world-bolt",
+	"version": "0.0.1",
+	"description": " testing boltpkg https://github.com/boltpkg/bolt ",
+	"main": "index.js",
+	"repository": "https://github.com/Offirmo/hello-world-bolt.git",
+	"author": "Offirmo <offirmo.net@gmail.com>",
+	"license": "Unlicense",
+	"private": true,
+	"bolt": {
+		"workspaces": [
+			"apps/*",
+			"stdlib/*",
+			"pro/*"
+		]
+	},
+	"dependencies": {
+		"chalk": "^2.3.0",
+		"prettyjson": "^1.2.1",
+		"tslib": "^1.8.1",
+		"typescript-string-enums": "^0.3.5"
+	}
+}

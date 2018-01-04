@@ -1,0 +1,10 @@
+{
+	"name": "hello",
+	"version": "0.0.1",
+	"main": "index.js",
+	"license": "Unlicense",
+	"dependencies": {
+		"tslib": "^1.8.1",
+		"@offirmo/universal-logger-node": "^0.0.1"
+	}
+}
