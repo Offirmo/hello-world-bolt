@@ -6,5 +6,8 @@
 	"dependencies": {
 		"tslib": "^1.8.1",
 		"@offirmo/universal-logger-node": "^0.0.1"
+	},
+	"scripts": {
+		"build": "echo build apps/hello"
 	}
 }

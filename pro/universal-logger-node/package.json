@@ -10,5 +10,8 @@
 		"chalk": "^2.3.0",
 		"prettyjson": "^1.2.1",
 		"tslib": "^1.8.1"
+	},
+	"scripts": {
+		"build": "echo build pro/universal-logger-node"
 	}
 }

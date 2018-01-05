@@ -8,5 +8,8 @@
 	"dependencies": {
 		"@offirmo/timestamp": "^0.0.1",
 		"typescript-string-enums": "^0.3.5"
+	},
+	"scripts": {
+		"build": "echo build pro/universal-logger-core"
 	}
 }
